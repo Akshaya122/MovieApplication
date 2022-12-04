@@ -1,5 +1,5 @@
 # MovieApplication
-https://user-images.githubusercontent.com/93465328/205502100-ae1dd8bb-62e6-4d39-9d0a-719ee5d9149b.png
-https://user-images.githubusercontent.com/93465328/205502115-2211a633-76b3-445c-8942-de89b1d8f1cd.png
-https://user-images.githubusercontent.com/93465328/205502232-7d417565-1dec-4c55-a08b-0ae2fb5b36eb.png
+![Screenshot (149)](https://user-images.githubusercontent.com/93465328/205504141-b363e972-3385-43ce-815e-cc343fa9c05a.png)
+![Screenshot (149)](https://user-images.githubusercontent.com/93465328/205504148-2a290312-7ec3-49b5-96cd-177ce52a2d78.png)
+![Screenshot (149)](https://user-images.githubusercontent.com/93465328/205504153-080b5a84-0320-4981-b9a6-f4993f1fcb9c.png)
 https://drive.google.com/file/d/1TLjE_vA8iXinjjFjcYJNQ_E4nPqiXxfe/view?usp=sharing
